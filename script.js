@@ -29,3 +29,14 @@ else if (true && true){
 else{
     console.log("no result")
 }
+
+
+if(true && true != true && false){
+    console.log("Help me")
+}
+else if(true && true == true && false){
+console.log("PLZ PUSH")
+}
+else{
+    console.log("huhuhuhuhu")
+}
